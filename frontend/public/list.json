@@ -1,83 +1,130 @@
 [
     {
         "id":1,
-        "name":"Python",
-        "title":"Lorem the jdk kowmd fkfm",
-        "price":0,
+        "name":"Frontend Development",
+        "title":"A front-end developer creates the part of a website or application that users see and interact with. ",
+        "price":195.0,
         "category":"Free",
-        "image":"https://i.ytimg.com/vi/-y3kTjyX2mE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOnfx5smuo_hFGHQq6vORjZ3wSNA"
+        "image":"https://cdn.prod.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b53d6186fc53_ABM%20College%20Web%20developer%20main.jpg"
+
 
     },
     {
         "id":2,
-        "name":"C++",
-        "title":"Lorem the jdk kowmd fkfm",
-        "price":0,
-        "category":"80",
-        "image":"https://i.ytimg.com/vi/-y3kTjyX2mE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOnfx5smuo_hFGHQq6vORjZ3wSNA"
+        "name":"C Programming For Beginners",
+        "title":"The C programming language is a general-purpose, procedural language that offers low-level access to system memory. ",
+        "price":145.0,
+        "category":"Free",
+        "image":"https://media.bitcot.com/wp-content/uploads/2023/06/best-web-development-languages.webp"
 
     },
     {
         "id":3,
         "name":"C",
-        "title":"Lorem the jdk kowmd fkfm",
+        "title":"Learn and Master C Programming For Absolute Beginners!",
         "price":0,
         "category":"Free",
-        "image":"https://i.ytimg.com/vi/-y3kTjyX2mE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOnfx5smuo_hFGHQq6vORjZ3wSNA"
+        "image":"https://www.mooc.org/hubfs/web-programming-languages.jpg"
 
     },
     {
         "id":4,
-        "name":"ReactJs",
-        "title":"Lorem the jdk kowmd fkfm",
+        "name":"Web Development",
+        "title":"Web development courses offer a pathway to building skills in creating websites and web applications.",
         "price":0,
         "category":"Free",
-        "image":"https://i.ytimg.com/vi/-y3kTjyX2mE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOnfx5smuo_hFGHQq6vORjZ3wSNA"
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzXYcl1y3YeDofnUK0TPzbzZV9XX5_6hZK3g&s"
 
     },
     {
         "id":5,
         "name":"Java",
-        "title":"Lorem the jdk kowmd fkfm",
+        "title":"Learn about object-oriented programming in Java. ",
         "price":0,
         "category":"40",
-        "image":"https://i.ytimg.com/vi/-y3kTjyX2mE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOnfx5smuo_hFGHQq6vORjZ3wSNA"
+        "image":"https://www.finoit.com/wp-content/uploads/2022/11/future-of-java-programming-language.jpg"
 
     },
     {
         "id":6,
-        "name":"Digital",
-        "title":"Lorem the jdk kowmd fkfm",
-        "price":0,
+        "name":"Automation Engineer",
+        "title":"Learn automation techniques for streamlining processes in industries like manufacturing and IT.",
+        "price":3000,
         "category":"Free",
         "image":"https://i.ytimg.com/vi/-y3kTjyX2mE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOnfx5smuo_hFGHQq6vORjZ3wSNA"
 
     },
     {
         "id":7,
-        "name":"IOT",
-        "title":"Lorem the jdk kowmd fkfm",
-        "price":0,
+        "name":"AWS Solutions",
+        "title":"Ultimate AWS Certified Solutions Architect",
+        "price":2500,
         "category":"30",
-        "image":"https://i.ytimg.com/vi/-y3kTjyX2mE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOnfx5smuo_hFGHQq6vORjZ3wSNA"
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0I6p6XAbTEYTPnvA8ZVMA7p47IO8-BBuxnewpvtigVYyW7zNLo7bUZ43q-yzYfs_3ujM&usqp=CAU"
 
     },
     {
         "id":8,
-        "name":"Network",
-        "title":"Lorem the jdk kowmd fkfm",
+        "name":"Java Programing",
+        "title":"Learn about object-oriented programming in Java.",
         "price":0,
         "category":"20",
-        "image":"https://i.ytimg.com/vi/-y3kTjyX2mE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOnfx5smuo_hFGHQq6vORjZ3wSNA"
+        "image":"https://miro.medium.com/v2/resize:fit:700/0*gtY-llyEbkeoS1Sp.png"
 
     },
     {
         "id":9,
         "name":"Javscript",
-        "title":"Lorem the jdk kowmd fkfm",
+        "title":" Explore dynamic scripting for interactive web solutions.",
         "price":0,
         "category":"20",
-        "image":"https://i.ytimg.com/vi/-y3kTjyX2mE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOnfx5smuo_hFGHQq6vORjZ3wSNA"
+        "image":"https://fireship.io/courses/javascript/img/featured.png"
+
+    },
+    {
+        "id":10,
+        "name":"Data Analysis",
+        "title":"Data Analysis Certification course helps you start your career as Data Analyst & provides online training on Tableau",
+        "price":2000,
+        "category":"20",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWc1yOBdOojoqvU8V53RFZnlrZWqYsqXQhw&s"
+
+    },
+    {
+        "id":11,
+        "name":"Cybersecurity",
+        "title":"Explore the Cybersecurity Concept",
+        "price":0,
+        "category":"20",
+        "image":"https://img.etimg.com/thumb/width-420,height-315,imgsize-122134,resizemode-75,msid-99508822/small-biz/security-tech/security/cyber-security-pitfalls-and-how-negligence-can-be-expensive-for-msmes.jpg"
+
+    },
+    {
+        "id":12,
+        "name":"Artifical Intelligence",
+        "title":"Exploring Artificial Intelligence:",
+        "price":300,
+        "category":"20",
+        "image":"https://www.polytechnique-insights.com/wp-content/uploads/2024/01/ia-ih-foncee-1049x600.jpg"
+
+    },
+    {
+        "id":13,
+        "name":"DBMS",
+        "title":"It  that allows users to access, manage, and interact with data in a database",
+        "price":250,
+        "category":"20",
+        "image":"https://rukminim2.flixcart.com/image/850/1000/kf4ajrk0/book/6/2/6/database-management-systems-for-gtu-18-course-iii-ce-cse-it-ict-original-imafvnaqwwcqpta9.jpeg?q=90&crop=false"
+
+    },
+    {
+        "id":14,
+        "name":"Networking",
+        "title":"etworking can refer to the process of building relationships and making connections, or to the establishment and use of a computer network",
+        "price":0,
+        "category":"20",
+        "image":"https://media.geeksforgeeks.org/wp-content/uploads/20240612155008/computer-networking-1024.webp"
 
     }
+
 ]
