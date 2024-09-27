@@ -71,7 +71,7 @@ return ()=>{
        
       </ul>
     </div>
-    <a className=" text-2xl font-bold cursor-pointer">daisyUI</a>
+    <a className=" text-xl font-bold cursor-pointer">TechLearnX</a>
   </div>
   <div className="navbar-end space-x-3">
   <div className="navbar-center hidden lg:flex">

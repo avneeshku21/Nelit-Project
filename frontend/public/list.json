@@ -12,7 +12,7 @@
     {
         "id":2,
         "name":"C Programming For Beginners",
-        "title":"The C programming language is a general-purpose, procedural language that offers low-level access to system memory. ",
+        "title":"The C programming language is a general-purpose, procedural language that offers ",
         "price":145.0,
         "category":"Free",
         "image":"https://media.bitcot.com/wp-content/uploads/2023/06/best-web-development-languages.webp"
@@ -120,7 +120,7 @@
     {
         "id":14,
         "name":"Networking",
-        "title":"etworking can refer to the process of building relationships and making connections, or to the establishment and use of a computer network",
+        "title":"Networking can refer to the process of building relationships and making connections, or to the establishment and use of a computer network",
         "price":0,
         "category":"20",
         "image":"https://media.geeksforgeeks.org/wp-content/uploads/20240612155008/computer-networking-1024.webp"

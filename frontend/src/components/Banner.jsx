@@ -1,5 +1,5 @@
 import React from 'react'
-import banner from "../../public/banner.jpg"
+import banner from "../../public/Cousre.png"
 function Banner() {
   return (
     <>
@@ -7,10 +7,10 @@ function Banner() {
     <div className=' order-2 w-full md:w-1/2 md:mt-12 mt-32'>
     <div className='space-y-12'>
     <h1 className='text-3xl font-bold'>
-        Swagawat hai meri duniya me! <span className='text-purple-600'>To kaise hai Aplog ....?</span>
+    Welcome to <span className='text-purple-600'>TechLearnX</span> Where Learning Meets Opportunity <span className='text-purple-600'><br />To kaise hai Aplog....?</span>
     </h1>
     <p className='text-xl '>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, quod maxime! Ut optio nobis deserunt ducimus, voluptate aperiam eaque repellendus, totam quaerat veritatis delectus et, quas sit accusamus dolore itaque?
+    Unlock a world of possibilities with our expertly crafted courses, designed to help you grow personally and professionally.Unlock a world of possibilities with our expertly crafted courses, designed to help you grow personally and professionally.
     </p>
     <label className="input input-bordered flex items-center gap-2">
   <svg
@@ -32,7 +32,7 @@ function Banner() {
     
     </div>
     <div className=' order-1 w-full md:w-1/2'>
-    <img src={banner}  className="w-92 h-92" alt="" />
+    <img src={banner}  className="w-81 h-90 " alt="" />
     </div>
     </div>
   
