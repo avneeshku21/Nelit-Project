@@ -8,7 +8,7 @@ function AllCourses() {
       <div className='mx-w-screen-2xl container mz-auto md:px-20 px-4 dark:bg-slate-800 dark:text-white'>
         <div className='mt-28 items-center justify-center text-center'>
           <h1 className='text-2xl font-semibold md:text-4xl'>
-          Learn. Grow. Succeed<span className='text-purple-500'>Explore Our Range of Courses :)</span>
+          Learn. Grow. Succeed :)<span className='text-purple-500'>Explore Our Range of Courses :)</span>
             <p className='mt-12'>
             Gain the knowledge and skills you need to succeed in today’s competitive landscape. Our diverse course offerings cover everything from tech to soft skills, providing you with the tools to thrive in your career.
             </p>
