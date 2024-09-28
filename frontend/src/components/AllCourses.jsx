@@ -15,7 +15,6 @@ function AllCourses() {
            <Link to='/'>
            <button className='bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300 mt-6'>
               Back
-
             </button>
            </Link>
           </h1>
